@@ -62,6 +62,12 @@ Through this project, I:
 
 ---
 
+## Model Link :
+
+https://drive.google.com/file/d/1wT_SCmVp-dPPV7-Dje3GrzbLAZM3e3_L/view?usp=sharing
+
+---
+
 ## 👩‍💻 About Me
 
 I'm **Drashvi Thoriya**, an aspiring AI/ML practitioner with a deep interest in solving real-world problems through data. This internship project marked my first applied step into the world of **AI for sustainability**, and has laid a strong foundation for my future projects in environmental analytics.
