@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 import joblib
+import pickle
 import streamlit as st
 
 # Load the model and structure
